@@ -4,6 +4,7 @@ title: Google Lighthouse, A Guide to a Better Site
 slug: /lighthouse
 date: 2021-01-31 22:31
 description: Article about Google Lighthouse
+featuredImage: /assets/lighthouse640x452.png
 ---
 <!--StartFragment-->
 
