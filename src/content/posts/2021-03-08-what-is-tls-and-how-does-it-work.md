@@ -17,7 +17,7 @@ featuredImage: /assets/141dafbf083ce49515283c071b576a3f.png
                 The difference between symmetric encryption and asymmetric encryption is that asymmetric encryption works in one direction. With symmetric encryption the encryption works both ways, using the same key. This can be exemplified using 8 bit binary numbers:
 
 ```
-		1 0 1 0 1 1 0 1 – Encryption Key		1 0 1 1 1 0 0 1 – Data for Encryption
+1 0 1 0 1 1 0 1 – Encryption Key		1 0 1 1 1 0 0 1 – Data for Encryption
 					1 0 1 0 1 1 0 1 – Encryption Key
 					1 0 1 1 1 0 0 1 – Data for Encryption
 
