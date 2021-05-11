@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: CSS Media Queries and Responsive Design
-slug: responsive_css
+slug: /responsive_css
 date: 2021-04-09 13:30
 description: An Article on CSS Media Queries and Responsive Practices.
 featuredImage: /assets/nordwood-themes-ubiwo074qlu-unsplash-1-.jpg
